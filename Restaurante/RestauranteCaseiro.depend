@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1565494602 source:c:\users\arthur niodizeo\documents\restaurantecaseiro\main.cpp
+	<iostream>
+	"RestauranteCaseiro.h"
+
+1565494523 source:c:\users\arthur niodizeo\documents\restaurantecaseiro\src\pedido.cpp
+	"Pedido.h"
+	<iostream>
+
+1565494541 c:\users\arthur niodizeo\documents\restaurantecaseiro\include\pedido.h
+	<iostream>
+
+1565494794 source:c:\users\arthur niodizeo\documents\restaurantecaseiro\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+
+1565494568 c:\users\arthur niodizeo\documents\restaurantecaseiro\include\mesaderestaurante.h
+	"Pedido.h"
+
+1565494523 source:c:\users\arthur niodizeo\documents\restaurantecaseiro\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+	<iostream>
+
+1565494523 c:\users\arthur niodizeo\documents\restaurantecaseiro\include\restaurantecaseiro.h
+	"MesaDeRestaurante.h"
+
