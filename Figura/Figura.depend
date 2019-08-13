@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1565573705 source:c:\users\arthur niodizeo\documents\figura\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Triangulo.h"
+	"Quadrado.h"
+	"Circulo.h"
+
+1565573689 source:c:\users\arthur niodizeo\documents\figura\src\circulo.cpp
+	"Circulo.h"
+	<iostream>
+
+1565573689 c:\users\arthur niodizeo\documents\figura\include\circulo.h
+	"FiguraGeometrica.h"
+
+1565573689 c:\users\arthur niodizeo\documents\figura\include\figurageometrica.h
+	<iostream>
+
+1565573689 source:c:\users\arthur niodizeo\documents\figura\src\quadrado.cpp
+	"Quadrado.h"
+	<iostream>
+
+1565573689 c:\users\arthur niodizeo\documents\figura\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1565573689 source:c:\users\arthur niodizeo\documents\figura\src\triangulo.cpp
+	"Triangulo.h"
+	<iostream>
+
+1565573689 c:\users\arthur niodizeo\documents\figura\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1565573689 source:c:\users\arthur niodizeo\documents\figura\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+	<iostream>
+
