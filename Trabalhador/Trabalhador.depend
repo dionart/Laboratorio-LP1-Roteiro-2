@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1565662665 source:c:\users\arthur niodizeo\documents\trabalhador\main.cpp
+	<iostream>
+	"Trabalhador.h"
+	"TrabalhadorAssalariado.h"
+	"TrabalhadorPorHora.h"
+
+1565658831 source:c:\users\arthur niodizeo\documents\trabalhador\src\trabalhador.cpp
+	"Trabalhador.h"
+
+1565658831 c:\users\arthur niodizeo\documents\trabalhador\include\trabalhador.h
+	<iostream>
+
+1565663233 source:c:\users\arthur niodizeo\documents\trabalhador\src\trabalhadorporhora.cpp
+	"TrabalhadorPorHora.h"
+
+1565661422 c:\users\arthur niodizeo\documents\trabalhador\include\trabalhadorporhora.h
+	"Trabalhador.h"
+
+1565661745 source:c:\users\arthur niodizeo\documents\trabalhador\src\trabalhadorassalariado.cpp
+	"TrabalhadorAssalariado.h"
+
+1565658842 c:\users\arthur niodizeo\documents\trabalhador\include\trabalhadorassalariado.h
+	"Trabalhador.h"
+
