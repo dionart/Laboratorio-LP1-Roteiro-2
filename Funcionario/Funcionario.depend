@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1565552274 source:c:\users\mary oliveira\documents\funcionario\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Consultor.h"
+
+1565552731 source:c:\users\mary oliveira\documents\funcionario\src\consultor.cpp
+	"Consultor.h"
+
+1565551605 c:\users\mary oliveira\documents\funcionario\include\consultor.h
+	"Funcionario.h"
+
+1565552274 c:\users\mary oliveira\documents\funcionario\include\funcionario.h
+	<iostream>
+
+1565552274 source:c:\users\mary oliveira\documents\funcionario\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+
+1565570923 source:c:\users\arthur niodizeo\documents\funcionario\src\funcionario.cpp
+	"Funcionario.h"
+	<iostream>
+
+1565570923 c:\users\arthur niodizeo\documents\funcionario\include\funcionario.h
+	<iostream>
+
+1565570923 source:c:\users\arthur niodizeo\documents\funcionario\src\consultor.cpp
+	"Consultor.h"
+
+1565570949 c:\users\arthur niodizeo\documents\funcionario\include\consultor.h
+	"Funcionario.h"
+
+1565567408 source:c:\users\arthur niodizeo\documents\funcionario\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Consultor.h"
+
